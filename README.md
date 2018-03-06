@@ -7,9 +7,10 @@ Programmer 2 : “So many books, so little time.” ― Frank Zappa
 ```
 
 Programmer 1: "When you reach the end of your rope, tie a knot in it and hang on."
--Franklin D. Roosevelt
+- Franklin D. Roosevelt
 
-Programmer 2:
+Programmer 2: "The art of writing is the art of discovering what you believe."
+- Gustave Flaubert
 
 Programmer 1:
 

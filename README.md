@@ -45,4 +45,5 @@ Programmer 2: "Two things are infinite: the universe and human stupidity; and I'
 Programmer 1: "Honesty is the first chapter in the book of wisdom."
 - Thomas Jefferson
 
-Programmer 2:
+Programmer 2: "Never memorize something that you can look up."
+― Albert Einstein

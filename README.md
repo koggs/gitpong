@@ -15,7 +15,8 @@ Programmer 2: "The art of writing is the art of discovering what you believe."
 Programmer 1: "All that we see or seem is but a dream within a dream.""
 -Edgar Allan Poe
 
-Programmer 2:
+Programmer 2: "Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today."
+― Steve Maraboli
 
 Programmer 1:
 

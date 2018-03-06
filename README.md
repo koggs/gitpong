@@ -27,7 +27,8 @@ Programmer 2: "The unhappiest people in this world, are those who care the most 
 Programmer 1: "Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.""
 - Satchel Paige
 
-Programmer 2:
+Programmer 2: "Instead of worrying about what you cannot control, shift your energy to what you can create."
+― Roy T. Bennett
 
 Programmer 1:
 

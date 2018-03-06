@@ -13,15 +13,16 @@ Programmer 2: "The art of writing is the art of discovering what you believe."
 - Gustave Flaubert
 
 Programmer 1: "All that we see or seem is but a dream within a dream.""
--Edgar Allan Poe
+- Edgar Allan Poe
 
 Programmer 2: "Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today."
 ― Steve Maraboli
 
-Programmer 1:"Good judgment comes from experience, and a lot of that comes from bad judgment."
--Will Rogers
+Programmer 1: "Good judgment comes from experience, and a lot of that comes from bad judgment."
+- Will Rogers
 
-Programmer 2:
+Programmer 2: "The unhappiest people in this world, are those who care the most about what other people think."
+― C. JoyBell C.
 
 Programmer 1:
 

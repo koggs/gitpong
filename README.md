@@ -36,7 +36,8 @@ Programmer 1: "If you cannot do great things, do small things in a great way."
 Programmer 2: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
 ― Roy T. Bennett
 
-Programmer 1:
+Programmer 1: "There is only one corner of the universe you can be certain of improving, and that's your own self."
+- Aldous Huxley
 
 Programmer 2:
 

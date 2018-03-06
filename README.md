@@ -30,7 +30,8 @@ Programmer 1: "Work like you don't need the money. Love like you've never been h
 Programmer 2: "Instead of worrying about what you cannot control, shift your energy to what you can create."
 ― Roy T. Bennett
 
-Programmer 1:
+Programmer 1: "If you cannot do great things, do small things in a great way."
+- Napoleon Hill
 
 Programmer 2:
 

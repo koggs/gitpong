@@ -24,7 +24,8 @@ Programmer 1: "Good judgment comes from experience, and a lot of that comes from
 Programmer 2: "The unhappiest people in this world, are those who care the most about what other people think."
 ― C. JoyBell C.
 
-Programmer 1:
+Programmer 1: "Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.""
+- Satchel Paige
 
 Programmer 2:
 

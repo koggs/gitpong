@@ -18,7 +18,8 @@ Programmer 1: "All that we see or seem is but a dream within a dream.""
 Programmer 2: "Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today."
 ― Steve Maraboli
 
-Programmer 1:
+Programmer 1:"Good judgment comes from experience, and a lot of that comes from bad judgment."
+-Will Rogers
 
 Programmer 2:
 

@@ -42,6 +42,7 @@ Programmer 1: "There is only one corner of the universe you can be certain of im
 Programmer 2: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
 ― Albert Einstein
 
-Programmer 1:
+Programmer 1: "Honesty is the first chapter in the book of wisdom."
+- Thomas Jefferson
 
 Programmer 2:

@@ -12,7 +12,8 @@ Programmer 1: "When you reach the end of your rope, tie a knot in it and hang on
 Programmer 2: "The art of writing is the art of discovering what you believe."
 - Gustave Flaubert
 
-Programmer 1:
+Programmer 1: "All that we see or seem is but a dream within a dream.""
+-Edgar Allan Poe
 
 Programmer 2:
 

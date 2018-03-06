@@ -33,7 +33,8 @@ Programmer 2: "Instead of worrying about what you cannot control, shift your ene
 Programmer 1: "If you cannot do great things, do small things in a great way."
 - Napoleon Hill
 
-Programmer 2:
+Programmer 2: "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart."
+― Roy T. Bennett
 
 Programmer 1:
 

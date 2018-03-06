@@ -39,7 +39,8 @@ Programmer 2: "Don't be pushed around by the fears in your mind. Be led by the d
 Programmer 1: "There is only one corner of the universe you can be certain of improving, and that's your own self."
 - Aldous Huxley
 
-Programmer 2:
+Programmer 2: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."
+― Albert Einstein
 
 Programmer 1:
 

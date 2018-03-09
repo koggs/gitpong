@@ -30,7 +30,7 @@ Programmer 1:"Research is formalized curiosity. It is poking and prying with a p
 
 Programmer 2: “You only live once, but if you do it right, once is enough.” -Mae West
 
-Programmer 1:
+Programmer 1:"No legacy is so rich as honesty."" -William Shakespeare
 
 Programmer 2:
 

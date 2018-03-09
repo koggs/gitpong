@@ -16,7 +16,7 @@ Programmer 1:"Think like a queen. A queen is not afraid to fail. Failure is anot
 -Oprah Winfrey.
 
 
-Programmer 2:
+Programmer 2: “Get busy living or get busy dying.” -Stephen King
 
 Programmer 1:
 

@@ -39,6 +39,8 @@ Programmer 1:"If I have seen further than others, it is by standing upon the sho
 
 Programmer 2: An eye for an eye leaves the whole world blind. -Mahatma Gandhi
 
-Programmer 1:
+Programmer 1:"Errors are not in the art but in the artificers."" 
+-Isaac Newton
+
 
 Programmer 2:

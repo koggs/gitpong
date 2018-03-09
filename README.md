@@ -18,7 +18,9 @@ Programmer 1:"Think like a queen. A queen is not afraid to fail. Failure is anot
 
 Programmer 2: “Get busy living or get busy dying.” -Stephen King
 
-Programmer 1:
+Programmer 1:"Women are the largest untapped reservoir of talent in the world."
+-Hillary Clinton
+
 
 Programmer 2:
 

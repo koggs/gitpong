@@ -10,7 +10,7 @@ Programmer 1: "The greatest discovery of all time is that a person can change hi
 -Oprah Winfrey.
 
 
-Programmer 2:
+Programmer 2: “To defend what you’ve written is a sign that you are alive.” -—William Zinsser, WD
 
 Programmer 1:
 

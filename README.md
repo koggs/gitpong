@@ -32,7 +32,7 @@ Programmer 2: “You only live once, but if you do it right, once is enough.” 
 
 Programmer 1:"No legacy is so rich as honesty."" -William Shakespeare
 
-Programmer 2:
+Programmer 2: “Without music, life would be a mistake.” -Friedrich Nietzsche
 
 Programmer 1:
 

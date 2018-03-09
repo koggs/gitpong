@@ -22,7 +22,7 @@ Programmer 1:"Women are the largest untapped reservoir of talent in the world."
 -Hillary Clinton
 
 
-Programmer 2:
+Programmer 2: “Be yourself; everyone else is already taken.” -Oscar Wilde
 
 Programmer 1:
 

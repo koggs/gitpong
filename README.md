@@ -37,7 +37,7 @@ Programmer 2: “Without music, life would be a mistake.” -Friedrich Nietzsche
 Programmer 1:"If I have seen further than others, it is by standing upon the shoulders of giants."" -Isaac Newton
 
 
-Programmer 2:
+Programmer 2: An eye for an eye leaves the whole world blind. -Mahatma Gandhi
 
 Programmer 1:
 

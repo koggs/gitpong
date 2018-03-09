@@ -24,7 +24,9 @@ Programmer 1:"Women are the largest untapped reservoir of talent in the world."
 
 Programmer 2: “Be yourself; everyone else is already taken.” -Oscar Wilde
 
-Programmer 1:
+Programmer 1:"Research is formalized curiosity. It is poking and prying with a purpose. Zora"
+- Neale Hurston
+
 
 Programmer 2:
 

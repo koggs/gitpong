@@ -34,7 +34,8 @@ Programmer 1:"No legacy is so rich as honesty."" -William Shakespeare
 
 Programmer 2: “Without music, life would be a mistake.” -Friedrich Nietzsche
 
-Programmer 1:
+Programmer 1:"If I have seen further than others, it is by standing upon the shoulders of giants."" -Isaac Newton
+
 
 Programmer 2:
 
